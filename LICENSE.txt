@@ -1,0 +1,5 @@
+ noUiSlider Public License
+ Terms and conditions for copying,
+ distribution and modification:
+
+ 0. Just do whatever you want. 
