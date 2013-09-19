@@ -21,11 +21,11 @@ In your app/assets/javascript manifest file:
 
 In your app/assets/stylesheets manifest file, you can include either of the default slider styles:
 
-`//=require 'nouislider.fox.css'
+`//=require 'nouislider.fox.css`
 
 or
 
-`//=require 'nouislider.space.css'
+`//=require 'nouislider.space.css`
 
 You are encouraged to use your own stylesheet, but these two will give you a good base to start from.
 
