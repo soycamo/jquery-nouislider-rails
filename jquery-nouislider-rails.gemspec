@@ -6,7 +6,7 @@ require 'jquery-nouislider-rails/version'
 Gem::Specification.new do |gem|
   gem.name          = "jquery-nouislider-rails"
   gem.version       = Jquery::Nouislider::Rails::VERSION
-  gem.authors       = ["Cameron Adamez", "Léon Gersen"]
+  gem.authors       = ["Cameron Adamez", "Leon Gersen"]
   gem.email         = ["cameron@soycow.org", "leongersen@gmail.com"]
   gem.description   = %q{Gem for the noUiSlider, a jQuery range slider.}
   gem.summary       = %q{Gem for the noUiSlider, a jQuery range slider.}
