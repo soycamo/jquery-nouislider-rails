@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["cameron@soycow.org", "leongersen@gmail.com"]
   gem.description   = %q{Gem for the noUiSlider, a jQuery range slider.}
   gem.summary       = %q{Gem for the noUiSlider, a jQuery range slider.}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/soycamo/jquery-nouislider-rails"
 
   gem.files         = `git ls-files`.split($/)
   gem.require_paths = Dir["{lib,vendor}/**/*"]

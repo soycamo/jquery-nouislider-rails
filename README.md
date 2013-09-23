@@ -16,18 +16,13 @@ And then execute:
 ## Usage
 
 In your app/assets/javascript manifest file:
+    //=require jquery.nouislider
 
-`//=require jquery.nouislider`
+In your app/assets/stylesheets manifest file:
+    //=require jquery.nouislider
 
-In your app/assets/stylesheets manifest file, you can include either of the default slider styles:
-
-`//=require 'nouislider.fox.css`
-
-or
-
-`//=require 'nouislider.space.css`
-
-You are encouraged to use your own stylesheet, but these two will give you a good base to start from.
+You are encouraged to use your own stylesheet. The styles for 4.0 have change significantly. 
+A reference is here: http://refreshless.com/nouislider/slider-design-styles
 
 ## Contributing
 
