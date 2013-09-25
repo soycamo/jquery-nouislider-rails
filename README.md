@@ -16,9 +16,11 @@ And then execute:
 ## Usage
 
 In your app/assets/javascript manifest file:
+
     //=require jquery.nouislider
 
 In your app/assets/stylesheets manifest file:
+
     //=require jquery.nouislider
 
 You are encouraged to use your own stylesheet. The styles for 4.0 have change significantly. 
