@@ -1,7 +1,5 @@
-module Jquery
-  module Nouislider
-    module Rails
-      VERSION = "4.0.1"
-    end
+module JqueryNouislider
+  module Rails
+    VERSION = "4.0.1.1"
   end
 end
