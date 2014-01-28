@@ -1,7 +1,9 @@
 # Jquery::Nouislider::Rails
 
 A gem version of the [noUiSlider for Jquery](http://refreshless.com/nouislider/)
-to include in a Rails ~3.1 application.
+to include in a Rails ~3.1 / 4.x application.
+
+noUiSlider version 5.0
 
 ## Installation
 
@@ -23,7 +25,7 @@ In your app/assets/stylesheets manifest file:
 
     //=require jquery.nouislider
 
-You are encouraged to use your own stylesheet. The styles for 4.0 have change significantly. 
+You are encouraged to use your own stylesheet.
 A reference is here: http://refreshless.com/nouislider/slider-design-styles
 
 ## Contributing
